@@ -19,7 +19,7 @@ export default function Home() {
                         <div className="text-center leading-8 md:leading-10 md:text-left">
                             <div className="inline-block">
                                 <h1 className="font-bold text-3xl lg:text-6xl">
-                                <span className="from-[#51DEEC] to-[#3023AE] bg-clip-text text-transparent bg-gradient-to-b">
+                                    <span className="from-[#51DEEC] to-[#3023AE] bg-clip-text text-transparent bg-gradient-to-b">
                                         Effortlessly
                                     </span>{" "}
                                     build and share your C++ packages.
