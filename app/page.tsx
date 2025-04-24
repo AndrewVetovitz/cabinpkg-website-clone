@@ -71,6 +71,7 @@ export default function Home() {
                                 width={800}
                                 height={450}
                                 alt="Demo of Cabin"
+                                unoptimized={true}
                             />
                         </div>
                     </div>

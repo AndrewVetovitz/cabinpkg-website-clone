@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ["vhs.charm.sh"],
+        remotePatterns: [
+            {
+                protocol: "https",
+                hostname: "vhs.charm.sh",
+            },
+        ],
     },
 };
 module.exports = nextConfig;
