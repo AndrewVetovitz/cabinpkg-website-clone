@@ -12,6 +12,12 @@ A package registry website for Cabin, a package manager and build system for C++
 $ yarn install
 ```
 
+#### Build GraphQL config
+
+```bash
+$ yarn generate
+```
+
 #### Start endpoint
 
 ```bash
