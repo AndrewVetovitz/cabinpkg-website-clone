@@ -13,7 +13,7 @@ export default function Layout({
     children,
 }: { children: React.ReactNode }): JSX.Element {
     return (
-        <html lang="en" className="dark">
+        <html lang="en" className="dark" suppressHydrationWarning>
             <body
                 className={"min-h-screen bg-background font-sans antialiased"}
             >
