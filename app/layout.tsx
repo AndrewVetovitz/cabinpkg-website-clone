@@ -5,6 +5,8 @@ import { Footer } from "./_components/footer";
 import { Header } from "./_components/header";
 import { Providers } from "./providers";
 
+import { JSX } from "react";
+
 import "./globals.css";
 
 export default function Layout({
