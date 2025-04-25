@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { JSX } from "react";
 
 export const metadata: Metadata = {
     title: "404: Not Found",
